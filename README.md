@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Programming Languages
-(https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,express,react,ruby,rails,postgres,py,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,express,react,ruby,rails,postgres,py,jest)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,postman,figma)](https://skillicons.dev)
 <!--
