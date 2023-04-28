@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jshtml,css,sass,jquery,nodejs, express,react,ruby,rails,postgres,py, jest, git, github, netlify, postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,jquery,nodejs,express,react,ruby,rails,postgres,py,jest,git,github,netlify,postman,figma)](https://skillicons.dev)
 <!--
 **Kody-Eguchi/Kody-Eguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
