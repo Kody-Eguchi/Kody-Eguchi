@@ -39,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-## Deployment
+### Deployment
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleCI-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
