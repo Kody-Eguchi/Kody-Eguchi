@@ -21,7 +21,6 @@
 ![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![ActiveRecord](https://img.shields.io/badge/-ActiveRecord-CC0000?style=for-the-badge&logo=ActiveRecord&logoColor=white)
 
 ### TEST
 
