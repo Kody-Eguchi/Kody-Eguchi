@@ -3,10 +3,47 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning TypeScript
 
+
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,express,react,ruby,rails,postgres,py,jest)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Frameworks & Libraries
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rails&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![ActiveRecord](https://img.shields.io/badge/-ActiveRecord-CC0000?style=for-the-badge&logo=ActiveRecord&logoColor=white)
+
+### TEST
+
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/-Chai-white?style=for-the-badge&logo=chai&logoColor=A30701)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### Systems & Databases
+
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,postman,figma)](https://skillicons.dev)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+## Deployment
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleCI-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 
 
 <!-- - 👯 I’m looking to collaborate on ... -->
