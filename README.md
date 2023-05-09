@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
 
 
 ### Programming Languages
