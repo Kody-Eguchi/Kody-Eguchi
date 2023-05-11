@@ -49,11 +49,11 @@
 <p align="center">
 <!-- dark mode only -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="left" src="https://github-readme-stats-noamurphy.vercel.app/api/top-langs/?username=kody-eguchi&hide_progress=true&theme=dark#gh-dark-mode-only" />
+    <img align="left" src="https://github-readme-stats-noamurphy.vercel.app/api/top-langs/?username=kody-eguchi&langs_count=8&hide_progress=true&theme=dark#gh-dark-mode-only" />
   </a>
 <!-- light mode only -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="left" src="https://github-readme-stats-noamurphy.vercel.app/api/top-langs/?username=kody-eguchi&hide_progress=true&theme=default#gh-light-mode-only" />
+    <img align="left" src="https://github-readme-stats-noamurphy.vercel.app/api/top-langs/?username=kody-eguchi&langs_count=8&hide_progress=true&theme=default#gh-light-mode-only" />
   </a>
 </p>
 
