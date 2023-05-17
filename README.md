@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently re-learning Python 
 
 
 ### Programming Languages
@@ -21,6 +21,7 @@
 ![Rails](https://img.shields.io/badge/rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### TEST
 
@@ -57,6 +58,7 @@
   </a>
 </p>
 
+<!--  Github stats cards created by [anuraghraza](https://github.com/anuraghazra) as part of a repo found [here](https://github.com/anuraghazra/github-readme-stats). -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
