@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently re-learning Python 
+- 🌱 I’m currently learning Vue.js, Redis, 
 
 
 ### Programming Languages
@@ -22,6 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### TEST
 
