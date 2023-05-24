@@ -36,7 +36,7 @@
 
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=#F05032)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-%DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
