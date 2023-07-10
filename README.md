@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Vue.js and Redis
+- 🌱 I’m currently learning AWS
 
 
 ### Programming Languages
