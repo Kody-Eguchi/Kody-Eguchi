@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Firebase
 
 
 ### Programming Languages
