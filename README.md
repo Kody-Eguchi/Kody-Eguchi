@@ -1,7 +1,7 @@
 # Hi My Name is Koji
 
 - 🔭 I’m currently working on Coin Tracker and Anti-bias Hiring Application
-- 🌱 I’m currently learning Firebase and AWS
+- 🌱 I’m currently learning Angular
 
 
 ### Programming Languages
